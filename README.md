@@ -62,9 +62,3 @@
 📧 **Email**: liyabona.thebe@gmail.com  
 💡 **Tagline**: *"Alone we can learn, but together we master."*  
 ``` 
-
-### Notes:  
-- Structured for GitHub readability with clear headers (`##`).  
-- Key metrics bolded for emphasis.  
-- Concise bullet points for quick scanning.  
-- Social impact aligns with UN SDGs for investor appeal.
