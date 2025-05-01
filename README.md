@@ -1,48 +1,70 @@
-# Learn 2gether - Collaborative Learning Platform
+```markdown
+# Learn 2gether Pitch Deck
+  This pitch deck presents Learn 2gether, a collaborative learning platform designed to address educational challenges through peer-to-peer interaction, AI-driven tools, and accessible features for students worldwide.
 
-## Problem Statement :warning:
-- **72% of students** experience isolation in digital learning  
-- Traditional e-learning lacks **real-time collaboration**  
-- **High costs** of 1-on-1 tutoring exclude many learners  
+## 01 Problem Statement  
+- **Isolation in Learning**: Students struggle alone without peer support.  
+- **Lack of Engagement**: Traditional e-learning is passive.  
+- **Difficulty Finding Study Partners**: No centralized platform for study buddies.  
+- **Time Management Issues**: Learners lack tools for consistency and progress tracking.  
 
-## Our Solution :bulb:
-```diff
-+ Virtual Study Rooms (video/whiteboard/collaboration tools)
-+ AI-Powered Study Planner with accountability reminders
-+ Peer Tutoring Marketplace (students teach & earn)
-+ Low-Bandwidth Mode for emerging markets
+## 02 Solution  
+**Learn 2gether** is an interactive platform where learners:  
+✔ Join **shared study groups** by subject/goal.  
+✔ Engage in **live virtual study rooms** (video, chat, whiteboards).  
+✔ Find **peer tutors** for 1-on-1 or group sessions.  
+✔ Track progress with **AI-powered planners & analytics**.  
+✔ Access **crowdsourced notes/quizzes**.  
 
-Market Opportunity :chart_with_upwards_trend:
-Metric	Value
-TAM (Global)	$10B+
-SAM (Peer Learning)	$2B
-SOM (Year 1)	$200M
-Business Model :moneybag:
-Revenue Streams:
+## 03 Product Features  
+- Study Groups & Forums  
+- Virtual Study Rooms (live collaboration)  
+- Peer Tutoring Marketplace  
+- Smart Study Planner (AI-driven)  
+- Gamified Progress Tracking (badges, leaderboards)  
 
-Freemium Subscriptions ($4/student/month)
+## 04 Target Market  
+- **Primary**: Students (High School to Grad School).  
+- **Secondary**: Tutors & Educators monetizing knowledge.  
+- **Market Size**:  
+  - TAM: $10B+ (global e-learning).  
+  - SAM: $2B (peer learning segment).  
+  - SOM: $200M (US, Africa, UK focus).  
 
-10% Tutor Session Commission
+## 05 Business Model  
+- **Subscription Plans**:  
+  - Basic: Free trial.  
+  - Standard: $4/month per student.  
+  - Institutional: $100/month.  
+- **Tutor Commission**: 10% fee per 2 sessions.  
+- **Projected Revenue**: $84K/year (76% profit margin).  
 
-Institutional Plans ($100/school/month)
+## 06 Traction & Timeline  
+- **Phase 1**: University partnerships.  
+- **Phase 2**: Social media marketing (TikTok, Instagram).  
+- **Phase 3**: SEO & referral programs.  
+- **Milestones**: 50K users in 12 months; monetization by Q3 2025.  
 
-Projected Year 1 Profit: $64,000 (76% margin)
+## 07 Social Impact  
+- **SDG 4**: Quality education via peer learning.  
+- **SDG 5**: Gender equality in STEM study groups.  
+- **SDG 8**: Income opportunities for tutors.  
+- **SDG 10**: Support for rural/low-income students.  
 
-Competitive Edge :racing_car:
-:earth_africa: Localized for African markets (ZAR pricing, WhatsApp integration)
+## 08 Funding Ask  
+- **$500K Seed Funding**:  
+  - 60% Product Development.  
+  - 20% Marketing.  
+  - 10% Operations.  
+  - 10% Team Expansion.  
 
-:busts_in_silhouette: Hybrid model (tutoring + community)
+## 09 Contact  
+📧 **Email**: liyabona.thebe@gmail.com  
+💡 **Tagline**: *"Alone we can learn, but together we master."*  
+``` 
 
-:robot: AI accountability tools (vs unstructured Discord groups)
-
-:game_die: Gamified learning (badges, leaderboards)
-
-Traction :rocket:
-200+ active beta users in South Africa
-
-3 university partnerships secured
-
-10,000+ on waitlist
-
-Funding Ask :handshake:
-$500K Seed Round Allocation
+### Notes:  
+- Structured for GitHub readability with clear headers (`##`).  
+- Key metrics bolded for emphasis.  
+- Concise bullet points for quick scanning.  
+- Social impact aligns with UN SDGs for investor appeal.
